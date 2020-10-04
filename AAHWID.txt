@@ -66,6 +66,8 @@ kommando lifetime
 
 
 KEIN LIFETIME
+S-1-5-21-3450419999-2090549514-2153003077-1001                    JR100X4M31U76E
+Skytek 1 monat bis 4.11.20 18:00
 
 S-1-5-21-4276791153-2161797083-2701234435-1001                         Z9AJ3THA
 Zombie bis 14.10.20 21:00
