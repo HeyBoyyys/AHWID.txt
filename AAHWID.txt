@@ -117,6 +117,9 @@ Barcode lifetime
 S-1-5-21-275201624-1249782256-1301743868-1001       Z4YFNBFG         Z4YFNBFG        Z4YFNBFG      Z4YFNBFG
 Z4YFNBFG
 belou lifetime 
+S-1-5-21-275201624-1249782256-1301743868-1001                            Z4YFNBFG                     Z4YFNBFG                   Z4YFNBFG
+                Z4YFNBFG              S-1-5-21-275201624-1249782256-1301743868-1001         Z4YFNBFG  
+
 
 LIFETIME ABER NOCH KEINE NEUE HWID
 
@@ -137,26 +140,6 @@ kommando lifetime
 
 KEIN LIFETIME
 
-Kqxy 1 Monat bis 19.11.20 
-
-Clownfu 1 Monat per PP reseller bis 10.11.20 21:00
-
-
-Zeo 1 Monat per pp Reseller bis 10.11.20 22:00
-
-   
-Skytek 1 monat bis 4.11.20 18:00
-
-
-
-Someone is 1 monat bis 5.11.20 per paypall reseller
-
-
-Solo 1 monat bis 2.11.20
-
-
-reclusion 1 monat bis 29.10.20
-
 S-1-5-21-1775493403-1359426173-572040501-1001                        2J3020028970
 barry 15 Tage bis s 20.12.20 wenn sein kollege noch payt
 
@@ -167,13 +150,6 @@ S-1-5-21-2081949099-896671288-3412500509-1001
 2I1920050716        _00000001.
             2I1920050716        _00000001.
                                     2I1920050716        _00000001.
-
-Barcode lifetime
-S-1-5-21-3305563374-1772706786-1179898066-1001
-49H0GV9MS
-            49H0GV9MS
-                        49H0GV9MS
-
 
 
 S-1-5-21-459926214-1762189406-2578328873-1001
